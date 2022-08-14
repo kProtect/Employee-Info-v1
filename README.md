@@ -13,7 +13,8 @@
 <h3>You can start inserting your employee information.
 
 ### Demo Video
-(Video1)[https://watch.screencastify.com/v/Fc5BwHG0RvnJPAOf7Wzo]
+
+[Video1](https://watch.screencastify.com/v/Fc5BwHG0RvnJPAOf7Wzo)
 
 </br>
 
